@@ -1,0 +1,21 @@
+{
+  "name": "purple-one",
+  "displayName": "i-love-purple-theme",
+  "description": "This is a theme of purple for vs code by Shannon Reed",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.115.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The-Purple-One",
+        "uiTheme": "vs-dark",
+        "path": "./themes/The-Purple-One-color-theme.json"
+      }
+    ]
+  }
+}
